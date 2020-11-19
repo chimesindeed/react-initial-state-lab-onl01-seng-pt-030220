@@ -2,10 +2,11 @@
 import React from 'react'
 
 class Bomb extends React.Component{
-  constructor(props){super(props) {
-    
-    
-  }
+  constructor(props){
+    super(props)
+    this.state = {
+      this.state.initialCount: this.
+    }
   }
   
   render = () => {
