@@ -1,3 +1,7 @@
 // your ImageSlider code here!
+import React from './react'
 
-class ImageSlider ex
+class ImageSlider extends React.Component {
+  constructor(props){super(props)}
+  
+}
