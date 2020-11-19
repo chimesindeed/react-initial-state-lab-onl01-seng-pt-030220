@@ -4,4 +4,9 @@ import React from './react'
 class ImageSlider extends React.Component {
   constructor(props){super(props)}
   
+  render = () => {
+    return (
+      )
+  }
+  
 }
