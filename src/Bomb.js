@@ -5,12 +5,16 @@ class Bomb extends React.Component{
   constructor(props){
     super(props)
     this.state = {
-      this.state.initialCount: this.
+      secondsLeft: this.props.initialCount
     }
   }
   
   render = () => {
     return (
+      this.state.seconds left > 0
+      ? 
+      return `${this.state.secondsLeft} before I go boom!`
+      :
       )
   }
 }
